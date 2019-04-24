@@ -3,8 +3,6 @@
 #include <queue>
 using namespace std;
 
-
-
 typedef struct BiTNode{
 	int data;
 	BiTNode *left;
